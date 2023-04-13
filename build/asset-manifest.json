@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zocial/static/css/main.b62ea404.css",
+    "main.js": "/Zocial/static/js/main.de06f22a.js",
+    "index.html": "/Zocial/index.html",
+    "main.b62ea404.css.map": "/Zocial/static/css/main.b62ea404.css.map",
+    "main.de06f22a.js.map": "/Zocial/static/js/main.de06f22a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.de06f22a.js"
+  ]
+}

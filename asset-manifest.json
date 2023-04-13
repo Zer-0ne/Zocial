@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Zocial/static/css/main.b62ea404.css",
-    "main.js": "/Zocial/static/js/main.6b324f13.js",
-    "index.html": "/Zocial/index.html",
-    "main.b62ea404.css.map": "/Zocial/static/css/main.b62ea404.css.map",
-    "main.6b324f13.js.map": "/Zocial/static/js/main.6b324f13.js.map"
+    "main.css": "/zocial/static/css/main.b62ea404.css",
+    "main.js": "/zocial/static/js/main.6b324f13.js",
+    "index.html": "/zocial/index.html",
+    "main.b62ea404.css.map": "/zocial/static/css/main.b62ea404.css.map",
+    "main.6b324f13.js.map": "/zocial/static/js/main.6b324f13.js.map"
   },
   "entrypoints": [
     "static/css/main.b62ea404.css",

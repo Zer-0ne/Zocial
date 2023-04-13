@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Zocial/static/css/main.b62ea404.css",
-    "main.js": "/Zocial/static/js/main.de06f22a.js",
+    "main.js": "/Zocial/static/js/main.97e2e747.js",
     "index.html": "/Zocial/index.html",
     "main.b62ea404.css.map": "/Zocial/static/css/main.b62ea404.css.map",
-    "main.de06f22a.js.map": "/Zocial/static/js/main.de06f22a.js.map"
+    "main.97e2e747.js.map": "/Zocial/static/js/main.97e2e747.js.map"
   },
   "entrypoints": [
     "static/css/main.b62ea404.css",
-    "static/js/main.de06f22a.js"
+    "static/js/main.97e2e747.js"
   ]
 }
